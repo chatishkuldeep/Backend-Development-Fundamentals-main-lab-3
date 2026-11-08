@@ -1,0 +1,7 @@
+node_modules/
+lab-03/node_modules/
+*.log
+generateScreenshots.js
+generateScreenshots.html
+lab-03/generateScreenshots.js
+temp_*.html

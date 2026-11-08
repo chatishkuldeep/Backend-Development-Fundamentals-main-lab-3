@@ -1,0 +1,15 @@
+{
+  "name": "lab-03",
+  "version": "1.0.0",
+  "description": "Lab 3: REST API, query parameters, validation, debugging",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "setup-db": "node setupDb.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
